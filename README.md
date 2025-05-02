@@ -33,9 +33,7 @@
 
 ### 📊 My Open Source Contributions
 
-- 🔧 [camel-ai/camel](https://github.com/camel-ai/camel/pulls?q=is%3Apr+author%3ATaoSun)
-- 🦉 [camel-ai/owl](https://github.com/camel-ai/owl/pulls?q=is%3Apr+author%3ATaoSun)
-- 📘 [datawhalechina/camel-agent-tutorial](https://github.com/datawhalechina/camel-agent-tutorial/pulls?q=is%3Apr+author%3ATaoSun)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=TaoSun&theme=onedark&title=PullRequest,Issues,Commits)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
