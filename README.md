@@ -33,10 +33,9 @@
 
 ### 📊 My Open Source Contributions
 
-> 📌 PRs from these repos only: CAMEL, OWL, and Tutorial
-
-![PRs](https://github-contributions.vercel.app/api/v1?username=TaoSun&repo=camel-ai/camel,camel-ai/owl,datawhalechina/camel-agent-tutorial&theme=tokyonight)
-
+- 🔧 [camel-ai/camel](https://github.com/camel-ai/camel/pulls?q=is%3Apr+author%3ATaoSun)
+- 🦉 [camel-ai/owl](https://github.com/camel-ai/owl/pulls?q=is%3Apr+author%3ATaoSun)
+- 📘 [datawhalechina/camel-agent-tutorial](https://github.com/datawhalechina/camel-agent-tutorial/pulls?q=is%3Apr+author%3ATaoSun)
 
 ---
 
