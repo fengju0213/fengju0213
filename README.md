@@ -11,7 +11,7 @@
 
 - 🎓 Graduate student at **Hunan University**
 - 🧠 Research interest: **Multi-Agent Systems**, **LLM-based Agents**, **Search & Ranking**
-- 🏢 Previously interned at **Baidu**, working on agents and search ranking
+- 🏢 Previously interned at **Baidu**, working on Agent and search ranking
 - 🛠️ Currently intern at **CAMEL-AI**, contributing to **Multi-Agent System design**
 - 📚 Actively contributing to open-source: `camel`, `owl`, and `handy-multi-agent`
 
