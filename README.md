@@ -13,7 +13,7 @@
 - 🧠 Research interest: **Multi-Agent Systems**, **LLM-based Agents**, **Search & Ranking**
 - 🏢 Previously interned at **Baidu**, working on agents and search ranking
 - 🛠️ Currently intern at **CAMEL-AI**, contributing to **Multi-Agent System design**
-- 📚 Actively contributing to open-source: `camel`, `owl`, and `camel-agent-tutorial`
+- 📚 Actively contributing to open-source: `camel`, `owl`, and `handy-multi-agent`
 
 ---
 
@@ -25,7 +25,7 @@
     <td><a href="https://github.com/camel-ai/owl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=camel-ai&repo=owl&theme=tokyonight" /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/datawhalechina/camel-agent-tutorial"><img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=camel-agent-tutorial&theme=tokyonight" /></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/datawhalechina/handy-multi-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=camel-agent-tutorial&theme=tokyonight" /></a></td>
   </tr>
 </table>
 
