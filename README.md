@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tao Sun</h1>
 <h3 align="center">Graduate Student @ Hunan University · CAMEL-AI Contributor</h3>
 
-### 📫 Contact Me
-
-- 📧 Email: suntaobg13@gmail.com 
-- 🤝 Wechat: fju0213
+<p align="center">
+📧 Email: suntaobg13@gmail.com&nbsp;&nbsp;&nbsp;
+🤝 Wechat: fju0213
+</p>
 
 ---
 
