@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tao Sun</h1>
 <h3 align="center">Graduate Student @ Hunan University · CAMEL-AI Contributor</h3>
 
+### 📫 Contact Me
+
+- 📧 Email: suntaobg13@gmail.com 
+- 🤝 Wechat: fju0213
+
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Agent+%7C+Multi-Agent+Systems+%7C+LLMs;Exploring+Intelligent+Systems+Every+Day..." alt="Typing SVG" />
 </p>
@@ -53,12 +60,6 @@
 
 ---
 
-### 📫 Contact Me
-
-- 📧 Email: suntaobg13@gmail.com 
-- 🤝 Wechat: fju0213
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TaoSun&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
