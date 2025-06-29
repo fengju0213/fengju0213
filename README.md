@@ -38,14 +38,6 @@
 
 ---
 
-### 📊 My Open Source Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fengju0213&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="left">
