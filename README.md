@@ -34,6 +34,9 @@
   <tr>
     <td colspan="2" align="center"><a href="https://github.com/datawhalechina/handy-multi-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=camel-agent-tutorial&theme=tokyonight" /></a></td>
   </tr>
+  <tr>
+    <td colspan="2" align="center"><a href="https://github.com/eigent-ai/eigent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eigent-ai&repo=eigent&theme=tokyonight" /></a></td>
+  </tr>
 </table>
 
 ---
