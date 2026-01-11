@@ -25,17 +25,12 @@
 ---
 
 ### 🧩 Featured Repositories
+- camel-ai/camel: https://github.com/camel-ai/camel
+- camel-ai/owl: https://github.com/camel-ai/owl
+- eigent-ai/eigent: https://github.com/eigent-ai/eigent
+- datawhalechina/handy-multi-agent: https://github.com/datawhalechina/handy-multi-agent
+- datawhalechina/hello-agents: https://github.com/datawhalechina/hello-agents
 
-<table>
-  <tr>
-    <td><a href="https://github.com/camel-ai/camel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=camel-ai&repo=camel&theme=tokyonight" /></a></td>
-    <td><a href="https://github.com/camel-ai/owl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=camel-ai&repo=owl&theme=tokyonight" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/eigent-ai/eigent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eigent-ai&repo=eigent&theme=tokyonight" /></a></td>
-    <td colspan="2" align="center"><a href="https://github.com/datawhalechina/handy-multi-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=camel-agent-tutorial&theme=tokyonight" /></a></td>
-  </tr>
-</table>
 
 ---
 
