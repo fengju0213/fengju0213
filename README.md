@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tao Sun</h1>
-<h3 align="center">Master's student @ Hunan University · CAMEL-AI Engineer</h3>
+<h3 align="center">AI Engineer</h3>
 
 <p align="center">
 📧 Email: suntaobg13@gmail.com&nbsp;&nbsp;&nbsp;
