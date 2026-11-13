@@ -19,7 +19,7 @@
 * 🎓 M.S. graduate from **Hunan University**
 * 🧠 Research interests: **Multi-Agent Systems**, **LLM-based Agents**, **Search & Ranking**, and **Reinforcement Learning**
 * 🏢 Previously interned at **Baidu**, focusing on Agent and search ranking
-* 🛠️ Currently working full-time at **CAMEL-AI** on **Multi-Agent System design**, **RL environments**, and **data**
+* 🛠️ Currently working full-time at **Eigent-AI** on **Multi-Agent System design**, **RL environments**, and **data**
 
 ---
 
